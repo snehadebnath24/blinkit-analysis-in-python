@@ -35,7 +35,7 @@ Through exploratory data analysis (EDA) and visualizations, we aim to uncover wh
 - Outlets established in certain years (neither oldest nor newest) show stronger sales performance.
 
 ### 🚀 Tech Stack
-Python
-pandas → Data aggregation
-matplotlib & seaborn → Data visualization
-Jupyter Notebook → Interactive analysis
+- Python
+- pandas → Data aggregation
+- matplotlib & seaborn → Data visualization
+- Jupyter Notebook → Interactive analysis
